@@ -4,4 +4,4 @@ This repository contains my solutions to LeetCode problems. As of now, I am plan
 ## Solutions
 | Problem | Solution |
 | ------- | -------- |
-| [001 - Two Sum](https://leetcode.com/problems/two-sum/) | [Link](https://github.com/toasty-toast/leetcode/001) |
+| [001 - Two Sum](https://leetcode.com/problems/two-sum/) | [Link](https://github.com/toasty-toast/leetcode/tree/master/001) |
