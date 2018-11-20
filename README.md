@@ -2,7 +2,7 @@
 This repository contains my solutions to LeetCode problems. As of now, I am planning on using these problems to get familiary with Go.
 
 ## Solutions
-| Problem | Solution |
-| ------- | -------- |
-| [001 - Two Sum](https://leetcode.com/problems/two-sum/) | [Link](https://github.com/toasty-toast/leetcode/tree/master/001) |
-| [002 - Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Link](https://github.com/toasty-toast/leetcode/tree/master/002) |
+| Problem | Difficulty | Solution |
+| ------- | ---------- | -------- |
+| [001 - Two Sum](https://leetcode.com/problems/two-sum/) | ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) Easy | [Link](https://github.com/toasty-toast/leetcode/tree/master/001) |
+| [002 - Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | ![#ff9900](https://placehold.it/15/ff9900/000000?text=+) Medium | [Link](https://github.com/toasty-toast/leetcode/tree/master/002) |
