@@ -1,5 +1,7 @@
 # LeetCode
-This repository contains my solutions to LeetCode problems. As of now, I am planning on using these problems to get familiary with Go.
+This repository contains my solutions to LeetCode problems.
+
+As of now I am planning on using these problems to get familiar with Go, so the solutions may not always be clean idiomatic Go code.
 
 ## Solutions
 | Problem | Difficulty | Solution |
